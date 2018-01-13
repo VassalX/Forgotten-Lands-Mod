@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vfm",
+  "name": "Forgotten Lands",
+  "description": "Forgotten Lands Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["VassalX"],
+  "credits": "To me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

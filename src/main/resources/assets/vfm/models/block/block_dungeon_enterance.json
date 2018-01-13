@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures":{
+        "all":"vfm:blocks/block_dungeon_enterance"
+    }
+}
