@@ -29,7 +29,7 @@ public class BlockDungeonEnterance extends BlockBase {
 		setBlockUnbreakable();
 	}
 
-	private static long dstrDelayTicks = 2;
+	private static long dstrDelayTicks = 3;
 	private static long dstrDelayMilSec = dstrDelayTicks * ModConstants.MILSEC_IN_TICK;
 
 	@Override
